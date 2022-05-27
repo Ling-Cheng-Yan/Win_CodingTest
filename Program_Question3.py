@@ -4,7 +4,7 @@ class ListNode:
         self.next = next
 
 class Solution:
-    def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+    def Question3(self, l1: ListNode, l2: ListNode) -> ListNode:
         
         if l1==None:
             return l2
